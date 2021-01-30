@@ -1,0 +1,10 @@
+<h2>Contents for you</h2>
+<ul>
+<?php
+	foreach ($groupContents as $row) {
+		echo '<li><a href="?act=read&content='.$row['id'].'">'.$row['title'].'</a></li>';
+	}
+?>
+	<li><a href="?act=read&content=100">Missing article</a></li>
+	<li><a href="?act=read&content=101">No access</a></li>
+</ul>

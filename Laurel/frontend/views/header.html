@@ -1,0 +1,15 @@
+<div class="header shadow">
+	<div><h1>Header<h1></div>
+	<div>
+<?php
+	echo $_SESSION['user']['email'].'<br>';
+	echo $_SESSION['user']['userGroupName'].'<br>';
+?>
+	
+		<div class="logout">
+			<a href="?act=home">&#xbb; Home</a><br>
+			<a href="?act=logout">&#xbb; Logout</a>
+		</div>
+	</div>
+</div>
+		

@@ -1,0 +1,16 @@
+<?php require_once('frontend/views/header.html'); ?>
+<div class="content">
+	<div class="shadow">
+<?php require_once('frontend/views/left-contents.html'); ?>	
+	</div>
+	<div>
+<?php 
+	if (file_exists('frontend/contents/'.$contentMain.'.html')) {
+		require_once('frontend/contents/'.$contentMain.'.html'); 
+	} else {
+		require_once('frontend/contents/no-content.html'); 
+	}
+?>
+	</div>
+</div>
+<?php require_once('frontend/views/footer.html'); ?>

@@ -1,0 +1,108 @@
+<table style="width: 100%; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td align="center">
+<div>
+<table style="width: 650px; margin: 0 auto;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="650" height="20"><span style="font-family: Arial; font-size: 12px;"><b>Ha problémái vannak a hírlevél megjelenítésével, kérjük </b> </span><b> <a href="{level_link}"> <span style="font-family: Arial; font-size: 12px;">kattintson ide</span></a><span style="font-family: Arial; font-size: 12px;">.</span></b></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<div>
+<table style="width: 650px;" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td style="border: 2px solid #D99D00;" align="center">
+<table style="width: 650px; margin: 0 auto; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="background-color: #d99d00; height: 108px; width: 650px;" width="650" align="center"><font face="Arial" size="4"> <a style="text-decoration: none;" rel="noopener" href="http://gyogyszeresztovabbkepzes.hu/" target="_blank"> <font color="#6C7523"> <img style="display: block; border: 0px none;" title="Gyógyszerész Továbbképzés Online Hírlevél" src="http://content.thepromenade.hu/2020/gyogyszeresz/20200505/gyogyszeresz_ksz_fejlec.jpg" alt="Gyógyszerész Továbbképzés Online Hírlevél" width="650" height="108"></font></a></font></td>
+</tr>
+<tr>
+<td style="background-color: #ffffff;" width="650" align="center">
+<div>
+<div>
+<table style="width: 650px;" border="0" cellspacing="0" cellpadding="0" bgcolor="#D99D00">
+<tbody>
+<tr>
+<td width="650" align="center">
+<table style="border-collapse: collapse; width: 650px;" border="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td width="650" align="center" bgcolor="#FFFFFF">
+&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size: 2px; line-height: 2px;" width="650" height="30" align="center" bgcolor="#D99D00"><font style="font-size: 2px;" face="Arial"><img style="display: block; border: 0px none;" src="http://content.promenade.hu/2018/mnt/20180118_kutato_dij/alsoarnyek.png" alt="" width="650" height="30"></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="background-color: #d99d00;" width="650" height="27" align="center"><font face="Arial"> <img style="display: block; border: 0px none;" src="http://content.promenade.hu/2020/gyogyszeresz/20200121/gy_2020_footer650.jpg" alt="" width="650" height="27"></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<table style="width: 650px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align: center;" width="650" align="center">
+<div style="font-family: arial; font-size: 9px; color: #666666; margin: 5px;"><font face="Arial">A hirdetők által elhelyezett tartalomért a hírlevél küldője semminemű felelősséget nem vállal, azokért mindenkor a hirdetés elhelyezője a felelős.</font></div>
+</td>
+</tr>
+<tr>
+<td style="width: 650px; line-height: 2px; font-size: 2px;" height="20" align="center">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 650px; text-align: center;" height="20" align="center"><span style="font-family: Arial; font-size: 11px; color: #666666; text-align: center;"><a style="font-family: Arial; font-size: 11px; color: #666666;" href="{leiratkozas_link}"> <font color="#666666">Ha le szeretne iratkozni, kattintson ide</font></a></span></td>
+</tr>
+<tr>
+<td style="width: 650px; line-height: 2px; font-size: 2px;" height="20" align="center">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table style="width: 648px;" border="0" cellspacing="0" cellpadding="0" bgcolor="#F7F7F7">
+<tbody>
+<tr>
+<td style="border: 1px solid #999999;" width="650" align="left">
+<div style="font-family: Arial; font-size: 9px; margin: 10px; color: #666666; text-align: justify;"><font style="font-size: 9px;" color="#666666">Ezt a hírlevelet Ön azért kapta, mert e-mail címével korábban regisztrált a </font> <span style="font-size: 9px;"> <font color="#242424"> <a style="font-size: 9px; text-decoration: underline; color: #666666;" rel="noopener" href="http://gyogyszeresztovabbkepzes.hu/" target="_blank"> <font color="#666666">gyogyszeresztovabbkepzes.hu</font></a></font> </span> <font style="font-size: 9px;" color="#666666"> oldalra. Adatainak módosításához, kérjük, látogasson el </font> <span style="font-size: 9px;"> <font color="#242424"> <a style="font-size: 9px; text-decoration: underline; color: #666666;" rel="noopener" href="http://www.gyogyszeresztovabbkepzes.hu/index.php/adatmodositas/userdetails" target="_blank"> <font color="#666666">erre&nbsp;az&nbsp;oldalra</font></a></font></span><font style="font-size: 9px;" color="#666666">. Ha a bejelentkezéshez szükséges jelszavát elfelejtette, új jelszót </font> <span style="font-size: 9px;"> <font color="#242424"> <a style="font-size: 9px; text-decoration: underline; color: #666666;" rel="noopener" href="http://www.gyogyszeresztovabbkepzes.hu/index.php/regisztracio/lostpassword" target="_blank"> <font color="#666666">itt&nbsp;igényelhet</font></a></font><font style="font-size: 9px;" color="#666666">. Amennyiben nem kíván több e-mailt kapni tőlünk, jelen hírlevelünkről </font> </span><span style="font-family: arial,helvetica,sans-serif; font-size: 9px;"> <font color="#242424"> <a style="font-size: 9px; text-decoration: underline; color: #666666;" href="{leiratkozas_link}"> <font color="#666666">itt&nbsp;iratkozhat&nbsp;le</font></a></font><font style="font-size: 9px;" color="#666666">. Ha bármilyen egyéb technikai kérdésben a segítségére lehetünk, az </font> <font color="#242424"> <a style="font-size: 9px; text-decoration: underline; color: #666666;" href="mailto:info@gyogyszeresztovabbkepzes.hu?subject=Gyógyszerész Hírlevél - Technikai segítség kérése"> <font color="#666666">info@gyogyszeresztovabbkepzes.hu</font></a></font><font style="font-size: 9px;" color="#666666"> e-mail címen állunk szíves rendelkezésére. </font> </span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 650px; line-height: 2px; font-size: 2px;" height="20" align="center">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 20px; width: 650px; text-align: center;" height="28" align="center" bgcolor="#FFFFFF"><font color="#666666"><span style="font-size: 12px; font-family: Arial; text-align: center;">GYTK-DM-20-SDZ-7</span></font> </td>
+</tr>
+<tr>
+<td style="width: 650px; line-height: 2px; font-size: 2px;" height="20" align="center">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>

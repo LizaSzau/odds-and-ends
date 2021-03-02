@@ -1,0 +1,21 @@
+<div><h1>SDSYS<h1></div>
+<div class="header-info">
+	<div>
+		<div class="header-data">
+			<div>Teljes név:</div>
+			<div><?php echo $_SESSION['user']['fullName']; ?></div>
+		</div>
+		<div class="header-data">
+			<div>Partner neve:</div>
+			<div><?php echo $_SESSION['user']['partnerName']; ?></div>
+		</div>
+		<div class="header-data">
+			<div>Adószám:</div>
+			<div><?php echo $_SESSION['user']['vatNumber']; ?></div>
+		</div>
+	</div>
+	<div class="logout">
+		<a href="?act=logout">&#xbb; Logout</a>
+	</div>
+</div>
+		

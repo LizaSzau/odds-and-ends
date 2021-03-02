@@ -1,0 +1,54 @@
+:root {
+  --white: #ffffff;
+  --black: #1e1e1e;
+  --blue-dark: #29295e;
+  --blue-light: #249ad1;
+  --blue-pale: #add9e6;
+  --green: #74bf74;
+  --red: #ff0060;
+  --grey: #ededed;
+}
+
+* { margin: 0; padding: 0; font-family: 'Montserrat', sans-serif; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; color: var(--blue-dark); }
+body, html { font-size: 16px; height: 100%; }
+
+h1 { margin-bottom: 20px; color: var(--blue-light); font-weight: black; }
+h2 { margin-bottom: 40px; color: var(--blue-light); }
+input { border: none; font: inherit; height: 36px; padding: 0 10px; color: var(--blue-dark); }
+input:focus { outline: none; border: 2px solid var(--blue-light); }
+input[type=file]:focus { border: none; }
+button { outline:none; width: 220px; font-size: 18px; background: var(--blue-light); color: var(--white); border: 0; height: 36px; border: 0; cursor: pointer; }
+button:hover { background: var(--blue-dark); }
+hr { margin: 40px 0; border: 1px solid var(--blue-light); background: var(--blue-light); }
+
+.container { min-height: 100%; display: grid; 
+	grid-template-columns:  auto 800px auto;
+	grid-template-rows: 170px auto 80px;
+	grid-template-areas:
+		'header header header'
+		'. main .'
+		'footer footer footer';
+}
+
+.container > div { padding: 20px; }
+
+.header { grid-area: header; background: var(--blue-pale); }
+.main { grid-area: main; margin: 20px 0; }
+.footer { grid-area: footer; background: var(--green); color: var(--white); text-align: center; line-height: 40px; }
+
+.header-info { display: flex; justify-content: space-between; align-items: flex-end; }
+.header-info > div { line-height: 24px; }
+.header-data { display: flex; }
+.header-data div:first-of-type { width: 120px; color: var(--blue-light); }
+.header-data div:last-of-type { color: var(--white); }
+
+.shadow { box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3); }
+
+a, a:link, a:visited, a:active, a:hover { color: var(--blue-light); }
+a:hover { color: var(--blue-dark); } 
+
+a.link-white:link, a.link-white:visited, a.link-white:active { color: var(--white); }
+a.link-white:hover { color: var(--blue-dark); }
+
+.error-msg { background: var(--red); color: white; padding: 10px; margin-top: 20px; }
+.success-msg { background: var(--green); color: white; padding: 10px; margin-top: 20px; }

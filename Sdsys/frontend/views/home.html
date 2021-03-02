@@ -1,0 +1,47 @@
+<link rel="stylesheet" href="frontend/css/home.css">
+
+<div class="container">
+	<div class="header shadow"><?php require_once('frontend/views/header.html'); ?></div>
+	<div class="main">
+		<h2>PDF file feltöltése</h2>
+		
+		<form action="?act=upload" method="POST" ENCTYPE="multipart/form-data">
+			<label for="pdf_file">Fájl kiválasztása:</label>
+			<input type="file" name="pdf_file" accept="application/pdf">
+			<button>Feltöltés</button>
+		</form>	
+	
+		<?php
+			if (isset($errorMessageUpload)) echo '<div class="error-msg">'.$errorMessageUpload.'</div>';
+		?>
+		
+		<?php
+			if (isset($successMessageUpload)) echo '<div class="success-msg">'.$successMessageUpload.'</div>';
+		?>
+		
+		<hr>
+		<h2>PDF file letöltése</h2>
+		
+		<form action="?act=download" method="POST">
+			<label for="document_id">A dokumentum azonosítója:</label>
+			<input type="text" name="document_id">
+			<button>Letöltés</button>
+		</form>
+		
+		<?php
+			if (isset($errorMessageDownload)) echo '<div class="error-msg">'.$errorMessageDownload.'</div>';
+		?>
+		
+		<?php
+			if (isset($successMessageDownload)) {
+				echo '<div class="success-msg">'.$successMessageDownload;
+				echo '<a href="'.$downloadedFileName.'" download id="pdf" class="link-white">'.$downloadedFileID.'.pdf</a>';
+				echo '</div>';
+			}
+		?>
+		
+	</div>
+	<div class="footer"><?php require_once('frontend/views/footer.html'); ?></div>
+</div>
+
+<script src="frontend/js/home.js"></script>

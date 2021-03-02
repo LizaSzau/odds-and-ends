@@ -1,0 +1,3 @@
+input[type=text] { background: var(--blue-pale); margin-left: 20px; }
+button { float: right; }
+h2:not(:first-of-type) { margin-bottom: 30px; }

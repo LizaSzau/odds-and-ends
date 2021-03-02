@@ -1,0 +1,7 @@
+body, html { height: 100%; display: grid; }
+h1 { color: var(--blue-light); }
+input { width: 100%; }
+button { width: 100%; }
+.form-group { padding: 10px 0 10px 0; }
+.login-form { margin: auto; width: 370px; background: var(--blue-pale); padding: 30px; }
+
